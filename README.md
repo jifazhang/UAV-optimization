@@ -1,5 +1,5 @@
 # UAV trajecory optimization
-UAV trajectory optimization via SCA in wireless communication
+UAV trajectory optimization via SCA in wireless communication, one ground user and one UAV.
 
 
 Prerequisites
@@ -8,3 +8,5 @@ CVX
 
 Algorithm
 SCA
+
+If you have any questions, suggestions, or inquiries related to this project or thesis, feel free to contact me at: jifazhang9802@gmail.com
