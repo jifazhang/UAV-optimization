@@ -9,4 +9,4 @@ CVX
 Algorithm
 SCA
 
-If you have any questions, suggestions, or inquiries related to this project or thesis, feel free to contact me at: jifazhang9802@gmail.com
+If you have any questions, suggestions, or inquiries related to this project, feel free to contact me at: jifazhang9802@gmail.com
